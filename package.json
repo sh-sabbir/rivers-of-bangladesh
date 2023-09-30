@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "createfile": "node createfile"
+  },
+  "devDependencies": {
+    "@nuxt/content": "^2.8.4",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "nuxt": "^3.7.4"
+  }
+}

@@ -30,7 +30,9 @@ watch(
 				class="mx-auto max-w-screen-xl px-4 py-32 lg:flex lg:h-96 lg:items-center"
 			>
 				<div class="mx-auto max-w-2xl text-center w-full">
-          <h1 class="font-bold text-white text-6xl leading-0 -mb-2">Search in the database!</h1>
+					<h1 class="font-bold text-white text-6xl leading-0 -mb-2">
+						Search in the database!
+					</h1>
 					<div class="relative">
 						<div
 							class="flex absolute inset-y-0 left-0 items-center pl-3 pointer-events-none"
@@ -53,7 +55,7 @@ watch(
 						<input
 							type="search"
 							id="default-search"
-							class="block p-4 pl-10 w-full text-sm text-gray-900 bg-white rounded-lg  border-gray-300 focus:ring-[#0077B6] focus:border-[#0077B6]"
+							class="block p-4 pl-10 w-full text-sm text-gray-900 bg-white rounded-lg border-gray-300 focus:ring-[#0077B6] focus:border-[#0077B6]"
 							placeholder="Search rivers..."
 							v-model="query"
 						/>
@@ -75,9 +77,7 @@ watch(
 								</h2>
 
 								<p class="mt-4 text-gray-500 sm:text-xl">
-									All rivers starting with "{{
-										article.title
-									}}"
+									{{ article.description }}
 								</p>
 							</div>
 						</template>
@@ -132,9 +132,7 @@ watch(
 					</div>
 				</template>
 				<template #not-found>
-					<div
-						class="grid px-4 bg-white place-content-center"
-					>
+					<div class="grid px-4 bg-white place-content-center">
 						<div class="text-center">
 							<h2
 								class="font-black text-gray-200 text-6xl leading-0"

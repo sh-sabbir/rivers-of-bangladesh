@@ -1,10 +1,10 @@
 import * as fs from "fs";
 
-let rawdata = fs.readFileSync("public/test.json");
+let rawdata = fs.readFileSync("public/data.json");
 let jsonData = JSON.parse(rawdata);
 
 jsonData.forEach((element) => {
-	console.log(element.slug);
+	// console.log(element.slug);
 
 	let content = `---
 title: "${element.title}"

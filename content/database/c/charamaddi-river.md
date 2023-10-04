@@ -1,0 +1,5 @@
+---
+title: "Charamaddi River"
+title_bn: "চরামাদ্দি নদী"
+description: "The Nehalganj river at Barisal district is the origin place of this river. Then it ends at Sajoal by meeting with Khairabad river."
+---

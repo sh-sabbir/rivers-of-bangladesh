@@ -1,0 +1,5 @@
+---
+title: "Pashur River"
+title_bn: "পসুর নদী"
+description: "The land between the Pashur and the Bhola is drained by the Sela, which lies wholly within the Sundarbans. Many cross channels connect it with the systems on either side. A large cross channel connects it with the Morzal at the head of its estuary. The pashur river is a continuation of the Rupsha, which is formed of the union of the Bhiaraband Atrai rivers. At present, much of its water is from the Garai diverted through the Noboganga. From near Batighata Upazilla the Rupsha changes its name to Kazibacha, which is given up near Chalna in favor of Pashur. Near the Mongla Port, the Pashur receives Mongla river and near the forest outpost at Chandpai it receives the Mirgamari cross channel from the Bhola, both on the leftbank. On the rightbank the Manki, Dhaki and Bhadra are connected with Shibsha system."
+---
